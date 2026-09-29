@@ -1,0 +1,39 @@
+{
+  "validCompany": {
+    "uid": "CHE-105.841.533",
+    "name": "Migros Bank AG",
+    "legalForm": "0106",
+    "legalFormName": "Aktiengesellschaft",
+    "status": "Active",
+    "canton": "ZH",
+    "address": {
+      "street": "Seidengasse 15",
+      "city": "Zürich",
+      "postalCode": "8001"
+    }
+  },
+  "inactiveCompany": {
+    "uid": "CHE-000.000.001",
+    "name": "Inactive Test Company",
+    "legalForm": "0107",
+    "legalFormName": "Gesellschaft mit beschränkter Haftung",
+    "status": "Inactive",
+    "canton": "BE"
+  },
+  "searchResults": [
+    {
+      "uid": "CHE-105.841.533",
+      "name": "Migros Bank AG",
+      "legalForm": "0106",
+      "canton": "ZH",
+      "status": "Active"
+    },
+    {
+      "uid": "CHE-116.281.710",
+      "name": "Migros-Genossenschafts-Bund",
+      "legalForm": "0109",
+      "canton": "ZH",
+      "status": "Active"
+    }
+  ]
+}
