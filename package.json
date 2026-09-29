@@ -23,6 +23,14 @@
   ],
   "author": "IndieGoWeb Ltd",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whybothercoding/zefix-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whybothercoding/zefix-mcp-server/issues"
+  },
+  "homepage": "https://github.com/whybothercoding/zefix-mcp-server#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.31.0",
     "dotenv": "^16.4.5",
