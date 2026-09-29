@@ -40,5 +40,7 @@ docs/
 # Local, machine-specific tooling config
 .claude/
 .mcp.json
+/.agents/
+/.codex/
 /GEMINI.md
 /CLAUDE.md
